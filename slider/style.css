@@ -1,0 +1,39 @@
+.content {
+    max-width: 980px;
+    margin: auto;
+    margin-top:100px;
+}
+
+.center {
+    text-align: center !important;
+}
+
+.section {
+    margin-top: 16px !important;
+    margin-bottom: 16px !important;
+}
+
+.btn {
+    border: none;
+    display: inline-block;
+    outline: 0;
+    padding: 6px 16px;
+    vertical-align: middle;
+    overflow: hidden;
+    text-decoration: none !important;
+    color: #fff;
+    background-color: #000;
+    text-align: center;
+    cursor: pointer;
+    white-space: nowrap;
+}
+
+.red, .red:hover {
+    color: #fff !important;
+    background-color: #f44336 !important;
+}
+
+.mySlides{
+    width: 800px;
+    height: 280px;
+}
